@@ -19,13 +19,13 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 - 🔗 [Event Management System](https://github.com/Panchakshari-matada/event-management) – Web app for managing college events.
 - 🎮 [Simon Says Game](https://panchakshari-matada.github.io/simon-says-game/) – Classic memory game using JS.
 - 🎯 [Number Guessing Game](https://panchakshari-matada.github.io/number-guessing-game/) – Interactive web-based game with hints.
-- 🖼️ [Arts & Culture Page](https://panchakshari-matada.github.io/arts-and-culture/) – A simple, styled webpage project.
+- 🖼️ [Arts & Culture Page](https://panchakshari-matada.github.io/arts-and-culture/) – A simple, styled webpage project Secured 1st Place – UI Design Competition (CSE Dept., 2024).
 
 ### 🏆 Achievements
 - 🥇 1st Place – UI Design Competition (CSE Dept., 2024)
 - 🥇 1st Place – Crossword, Infotsav Tech Fest 2024
 - 🥉 3rd Place – Binary Bash (Coding), IEEE Ideathon
-- 🥉 3rd Place – SIH 2024 Internal Hackathon
+- 🥉 3rd Place – SIH 2024 Internal Hackathon (College Level)
 - 🏸 VTU Inter-Collegiate Badminton Runner-Up (2024–25)
 
 ### 📜 Certifications
