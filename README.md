@@ -15,11 +15,12 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 - DSA in Java (via Apna College)
 
 ### 🚀 Projects
-- 🎯 [portfolio](https://panchakshari-matada.github.io/portfolio/) - My Portfolio.
+- 🎯 [Portfolio](https://panchakshari-matada.github.io/portfolio/) - My Portfolio.
 - 🔗 [Event Management System](https://github.com/Panchakshari-matada/event-management) – Web app for managing college events.
 - 🎮 [Simon Says Game](https://panchakshari-matada.github.io/simon-says-game/) – Classic memory game using JS.
 - 🎯 [Number Guessing Game](https://panchakshari-matada.github.io/number-guessing-game/) – Interactive web-based game with hints.
 - 🖼️ [Arts & Culture Page](https://panchakshari-matada.github.io/arts-and-culture/) – A simple, styled webpage project Secured 1st Place – UI Design Competition (CSE Dept., 2024).
+- 🔗 [Spotifi clone](https://panchakshari-matada.github.io/spotifi-clone/) - web app of spotifi clone using HTML & CSS
 
 ### 🏆 Achievements
 - 🥇 1st Place – UI Design Competition (CSE Dept., 2024)
