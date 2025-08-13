@@ -20,7 +20,8 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 - 🎮 [Simon Says Game](https://panchakshari-matada.github.io/simon-says-game/) – Classic memory game using JS.
 - 🎯 [Number Guessing Game](https://panchakshari-matada.github.io/number-guessing-game/) – Interactive web-based game with hints.
 - 🖼️ [Arts & Culture Page](https://panchakshari-matada.github.io/arts-and-culture/) – A simple, styled webpage project Secured 1st Place – UI Design Competition (CSE Dept., 2024).
-- 🔗 [Spotifi clone](https://panchakshari-matada.github.io/spotifi-clone/) - web app of spotifi clone using HTML & CSS
+- 🔗 [Spotifi clone](https://panchakshari-matada.github.io/spotifi-clone/) - Web app of spotifi clone using HTML & CSS
+- 🔗[Random Color Generator](https://panchakshari-matada.github.io/random-color/) - Web app for Generating RGB Code
 
 ### 🏆 Achievements
 - 🥇 1st Place – UI Design Competition (CSE Dept., 2024)
