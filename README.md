@@ -15,6 +15,7 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 - DSA in Java (via Apna College)
 
 ### 🚀 Projects
+- 🎯 [portfolio](https://panchakshari-matada.github.io/portfolio/) - My Portfolio.
 - 🔗 [Event Management System](https://github.com/Panchakshari-matada/event-management) – Web app for managing college events.
 - 🎮 [Simon Says Game](https://panchakshari-matada.github.io/simon-says-game/) – Classic memory game using JS.
 - 🎯 [Number Guessing Game](https://panchakshari-matada.github.io/number-guessing-game/) – Interactive web-based game with hints.
@@ -30,7 +31,7 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 ### 📜 Certifications
 - C Programming – Udemy
 - Java Programming – Great Learning
-- Full Stack Web Dev (MERN) – Apna College *(Pursuing)*
+- Full Stack Web Dev (MERN) & Data Structures with Java – Apna College *(Pursuing)*
 
 ### 📬 Connect with Me
 - 📧 panchu.ise.rymec@gmail.com
