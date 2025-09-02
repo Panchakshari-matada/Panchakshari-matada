@@ -4,11 +4,11 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 
 ### 💻 Tech Stack & Skills
 - **Languages:** C, Java
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React.js, EJS,  Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, Hoppscotch (API Testing)
-- **CS Fundamentals:** Data Structures & Algorithms in Java
+- **CS Fundamentals:** Data Structures & Algorithms in Java, OOP's 
 
 ### 🧠 Currently Learning
 - MERN Stack Development
