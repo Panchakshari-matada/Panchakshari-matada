@@ -16,6 +16,7 @@ I'm an aspiring Full Stack Developer and a final-year Information Science Engine
 
 ### 🚀 Projects
 - 🎯 [Portfolio](https://panchakshari-matada.github.io/portfolio/) - My Portfolio.
+- 🎯 [WanderLust](https://wanderlust-msrj.onrender.com/listings) - Airbnb-style Full-Stack Web App  
 - 🔗 [Event Management System](https://github.com/Panchakshari-matada/event-management) – Web app for managing college events.
 - 🎮 [Simon Says Game](https://panchakshari-matada.github.io/simon-says-game/) – Classic memory game using JS.
 - 🎯 [Number Guessing Game](https://panchakshari-matada.github.io/number-guessing-game/) – Interactive web-based game with hints.
